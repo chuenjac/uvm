@@ -1,0 +1,5 @@
+alias top3="du -s * | sort -nr |head -n3"
+alias aa="notepad ~/.bashrc"
+alias al="sourde ~/.bashrc"
+alias lh="ls -lah"
+alias go-code="cd /C/Users/Jacobo/code/uvm/codigo"
